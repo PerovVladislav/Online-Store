@@ -78,6 +78,7 @@ li{ display: inline; }
 }
 
 .menu__body{
+	min-width: 1000px;
 	border-bottom: 1px solid #cccccc;
 }
 .menu__content{
