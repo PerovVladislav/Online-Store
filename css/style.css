@@ -196,6 +196,10 @@ li{ display: inline; }
 	margin: 1em;
 	padding: 4px;
 	font-size: 32px;
-	background-color: #ff4500;
+	border: 2px solid #666666;
+	background-color: #888888;
 	color: white;
+}
+.basket__menu__block button:hover{
+	border: 2px solid #333333;
 }
